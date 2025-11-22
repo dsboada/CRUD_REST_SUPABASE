@@ -64,4 +64,5 @@ jobs:
         with:
           app-name: 'crudRestAppWeb'
           slot-name: 'Production'
-          package: './*.jar'
+          package: 'java-app/*.jar'
+
